@@ -1,4 +1,5 @@
 # ScribeLens
+[![image.png](https://i.postimg.cc/rF5m6307/image.png)](https://postimg.cc/MvKxVsYY)
 
 ScribeLens is an AI-powered web application that enhances handwritten or photographed notes by extracting text, generating structured summaries, and providing interactive Q&A features. Built with React, TypeScript, and Vite, it delivers a modern, responsive, and user-friendly experience.
 
